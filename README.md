@@ -1,6 +1,8 @@
 # difNLR
 Differential Item Functioning (DIF) detection using non-linear regression method Use difNLR With (In) R Software
 
+https://www.youtube.com/watch?v=zRfuQdYWin4
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
